@@ -23,4 +23,3 @@ int multiply(int a, int b)
 ```
 6. **Education:** Automated Control Systems 
 7. __English level:__ B1
-
