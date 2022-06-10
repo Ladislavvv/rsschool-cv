@@ -36,7 +36,6 @@ ol li:before {
     outline: 1px;
     outline-color: blue;
     outline-style: dotted;
-    margin-right: 70vh;
     margin-top: 1%;
 }
 
@@ -46,4 +45,9 @@ ol li:before {
 
 .bold_style {
     font-weight: bold;
+}
+
+.avatar_img {
+    width: 80px;
+    height: 70px;
 }
