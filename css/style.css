@@ -20,7 +20,7 @@ ol li:before {
     top: 0px;
     left: -26px;
     width: 20px;
-    color: #ef6780;
+    color: #2fe447;
     text-align: right;
 }
 
@@ -42,4 +42,8 @@ ol li:before {
 
 .goal_article {
     font-style: oblique;
+}
+
+.bold_style {
+    font-weight: bold;
 }
